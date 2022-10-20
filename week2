@@ -1,0 +1,20 @@
+NPTEL Joy Of Computation Using Python
+Week -2 Assignment :
+1q) Write a program to take an input from the user and print that input. 
+Program:
+a=input()
+print(a)
+
+2q) Write a program to take an input of two numbers A, and B and print the difference A-B
+Program:
+a=int(input())
+b=int(input())
+c=a-b
+print(c)
+
+3q) Take a string S and an integer A as an input from a user. Write a program to print string S, A number of times.
+Program:
+a=input()
+n=int(input())
+for i in range(n)
+print(a)
